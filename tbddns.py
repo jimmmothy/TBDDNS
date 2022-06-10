@@ -1,8 +1,6 @@
 #!/usr/bin/python3
 
-
 from ipsanity import ipsanity
-
 import json
 from flask import Flask, request
 import datetime
